@@ -14,4 +14,4 @@ Skills: React Hooks · User Interface Design · React.js · Front-End Developmen
 
 ![image](https://github.com/hrish1012/Cafe-coffeehouse/assets/113937257/503fdae9-1bae-4783-b123-24c3d739a3f1)
 
-Skills: React Hooks · User Interface Design · React.js · Front-End Development
+
