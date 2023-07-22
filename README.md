@@ -3,7 +3,7 @@ Coffee House is a cafe website developed using ReactJS which showcases the front
 I've developed this website to study ReactJS and Hooks, responsive design, animations, and good practices in front-end development. 
 
 
-If you're craving a virtual coffee experience, head over to Coffeeshop today! 
+If you're craving a virtual coffee experience, head over to Coffeeshop right now! 
 
 
 ☕️https://cafe-coffeehouse.netlify.app/
